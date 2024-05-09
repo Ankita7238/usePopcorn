@@ -23,3 +23,17 @@ The <B> usePopcorn </B>  is a Movie Manager type of web application built using 
 <b>Install dependencies:</b> npm install</br>
 <b>Start the development server:</b> npm start</br>
 <b>Open the application in your browser:</b> http://localhost:3000</br>
+
+<h2> Demo </h2>
+![image](https://github.com/Ankita7238/usePopcorn/assets/141292926/2f29cd56-645a-4cb1-ab4a-aff87822ec66)
+
+![image](https://github.com/Ankita7238/usePopcorn/assets/141292926/849e658a-3b89-4929-924d-5a8c8ac1f6b3)
+
+https://github.com/Ankita7238/usePopcorn/assets/141292926/ce9db589-86ce-465f-b068-fa314f10c6462
+
+
+
+
+
+
+
