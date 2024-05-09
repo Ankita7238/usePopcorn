@@ -8,7 +8,7 @@ The <B> usePopcorn </B>  is a Movie Manager type of web application built using 
 <b>View Movie Details:</b> Detailed information about each movie, including title, poster, ratings, plot, actors, and director, is displayed.</br>
 <b>Add to Watched List:</b> Users can add movies to their watched list with ratings, enabling them to track the movies they have seen.</br>
 <b>Delete from Watched List:</b> Movies can be removed from the watched list if the user decides they no longer wish to track them.</br>
-<b>Persistence:</b>b> The watched list is stored locally in the browser's localStorage, ensuring that user data is retained across sessions.</br>
+<b>Persistence:</b> The watched list is stored locally in the browser's localStorage, ensuring that user data is retained across sessions.</br>
 
 <h3>Technologies Used</h3>
 <b>React:</b> Frontend library for building user interfaces.</br>
@@ -18,8 +18,8 @@ The <B> usePopcorn </B>  is a Movie Manager type of web application built using 
 <b>localStorage:</b> Browser feature used for storing watched movie data locally.</br>
 
 <h3>Installation</h3>
-Clone the repository: git clone https://github.com/your-username/movie-manager.git</br>
-Navigate to the project directory: cd movie-manager</br>
-Install dependencies: npm install</br>
-Start the development server: npm start</br>
-Open the application in your browser: http://localhost:3000</br>
+<b>Clone the repository:</b> git clone https://github.com/ankita7238/usePopcorn.git</br>
+<b>Navigate to the project directory: </b>cd movie-manager</br>
+<b>Install dependencies:</b> npm install</br>
+<b>Start the development server:</b> npm start</br>
+<b>Open the application in your browser:</b> http://localhost:3000</br>
