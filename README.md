@@ -12,7 +12,7 @@ The <B> usePopcorn </B>  is a Movie Manager type of web application built using 
 
 <h3>Technologies Used</h3>
 <b>React:</b> Frontend library for building user interfaces.</br>
-<b>HTML & CSS:</bMarkup and styling languages for structuring and designing the application.</br>
+<b>HTML & CSS:</b Markup and styling languages for structuring and designing the application.</br>
 <b>JavaScript:</b> Programming language used for client-side scripting.</br>
 <b>OMDb API:</b> External API used for fetching movie data.</br>
 <b>localStorage:</b> Browser feature used for storing watched movie data locally.</br>
